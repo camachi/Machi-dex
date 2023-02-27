@@ -8,6 +8,7 @@ const pokespecialattack = document.getElementById("ataque-especial")
 const pokespecialdefence = document.getElementById("defensa-especial")
 const pokespeed = document.getElementById("velocidad")
 
+
 const colores = {
     electric: '#FFEA70',
     normal: '#B09398',
